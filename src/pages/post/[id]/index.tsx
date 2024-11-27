@@ -38,7 +38,7 @@ export default function PostPage({
       </Head>
       <div>
         {/*Info Section*/}
-        <div className="space-y-6">
+        <div className="space-y-2 m-auto">
           <h3 className="font-bold md:text-[45px] text-2xl leading-10">
             {blogData?.title}
           </h3>
